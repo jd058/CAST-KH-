@@ -1,3 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-Yes this is I- Jacob
+//Yes this is I- Jacob
+//I am trying to get this to show up in changes
+
+int x =0;
+if(x=0){
+    x=x+1;
+}
